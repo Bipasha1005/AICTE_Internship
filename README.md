@@ -1,6 +1,6 @@
 # 🧠 Human Pose Estimation using Machine Learning
 
-> Internship Project under AICTE's Virtual Internship Program focused on applying deep learning for human pose detection from images and video frames.
+> Internship Project under AICTE's Virtual Internship Program focused on applying deep learning and machine learning concepts for human pose detection from images and video frames.
 
 ## 📌 Project Overview
 
